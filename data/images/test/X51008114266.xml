@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image and xml</folder>
+	<filename>X51008114266.jpg</filename>
+	<path>/home/miracle/Downloads/task1_sangeeta_KT/image and xml/X51008114266.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1471</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>876</ymin>
+			<xmax>630</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Date</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>626</ymin>
+			<xmax>665</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+</annotation>

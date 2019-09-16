@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>X51005442384.jpg</filename>
+	<path>/home/miracle/Downloads/train1/X51005442384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1528</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Total</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>636</ymin>
+			<xmax>683</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>
